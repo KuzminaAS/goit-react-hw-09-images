@@ -1,0 +1,9 @@
+.loader {
+  top: 40%;
+  left: 47%;
+  z-index: 100;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+}
